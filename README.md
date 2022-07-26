@@ -1,2 +1,2 @@
-# Intensiv-o-de-Python
+# Intensivo-de-Python
 Curso Intensivão de Python
